@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFCreater": {
+      "commandName": "Project",
+      "commandLineArgs": "--name FreeStudio --path F:\\Gasoline\\FreeStudio\\platform\\WPF\\Freestudio --lib Freestudio"
+    }
+  }
+}

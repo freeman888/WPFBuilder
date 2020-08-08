@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPFBuilder", "WPFBuilder\WPFBuilder.csproj", "{ED2554AE-D38B-41A1-BF4A-84B4124FAC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFCreater", "WPFCreater\WPFCreater.csproj", "{ED5AB776-2C69-4F85-B9D0-9E50817E719A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED2554AE-D38B-41A1-BF4A-84B4124FAC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2554AE-D38B-41A1-BF4A-84B4124FAC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2554AE-D38B-41A1-BF4A-84B4124FAC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2554AE-D38B-41A1-BF4A-84B4124FAC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5AB776-2C69-4F85-B9D0-9E50817E719A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5AB776-2C69-4F85-B9D0-9E50817E719A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5AB776-2C69-4F85-B9D0-9E50817E719A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5AB776-2C69-4F85-B9D0-9E50817E719A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7190F85-585F-4D6A-AA65-EA06C0A1202E}
+	EndGlobalSection
+EndGlobal

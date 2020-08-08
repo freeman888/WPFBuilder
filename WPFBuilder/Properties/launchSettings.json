@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WPFBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "--file F:\\Chat\\platform\\WPF\\wpftest\\wpftest.csproj --outpath F:\\Chat\\platform\\WPF"
+    }
+  }
+}
